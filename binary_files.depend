@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1556056289 source:d:\programs\programe saves\save code blocks\saves\binary_files\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<dirent.h>
+
